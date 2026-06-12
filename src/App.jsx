@@ -31,7 +31,7 @@ function App() {
             <WashingMachine />
           </span>
           <div>
-            <h1 className="text-2xl font-bold text-stone-950">Sổ vận hành Hiệp Hưng</h1>
+            <h1 className="text-2xl font-bold text-stone-950">Sổ vận hành Hiệp</h1>
             <p className="mt-2 text-sm leading-6 text-stone-600">
               Lối vào riêng cho nhân viên kiểm đơn, đổi trạng thái, sửa bảng giá và cập nhật thông tin cửa hàng.
             </p>
